@@ -1,5 +1,5 @@
-# Referer-Spam-list
-A repo containing a list of current Referer Spam links, links to articles and server configurations to block these bots.
+# Referrer-Spam-list
+A repo containing a list of current Referrer Spam links, links to articles and server configurations to block these bots.
 
 ![Terry Crews blocks Odor!](http://cdn.makeagif.com/media/4-10-2015/riAVPT.gif)
 
