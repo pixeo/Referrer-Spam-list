@@ -1,6 +1,7 @@
 # List of referer spam
 
 + 54.186.60.77
++ 71510028.forum.nufaq.com
 + 76brighton.co.uk
 + 7makemoneyonline.com
 + adcash.com
@@ -12,6 +13,8 @@
 + best-seo-solution.com
 + bestwebsitesawards.com
 + blackhatworth.com
++ brucrm01.be.stibbe.int
++ build-a-better-business.2your.site	
 + buttons-for-website.com
 + buy-forum.ru
 + cenokos.ru
@@ -28,8 +31,8 @@
 + floating-share-buttons.com
 + forum.smailik.org
 + forum20.smailik.org
-+ free-social-buttons.com
 + free-floating-buttons.com
++ free-social-buttons.com
 + get-free-social-traffic.com
 + Get-Free-Traffic-Now.com
 + gobongo.info
@@ -55,8 +58,10 @@
 + powitania.pl
 + priceg.com
 + prlog.ru
++ quit-smoking.ga
 + ranksonic.info
 + s.click.aliexpress.com
++ santasgift.ml
 + savetubevideo.com
 + savetubevideo.info
 + screentoolkit.com
@@ -64,8 +69,11 @@
 + semalt.com
 + semalt.semalt.com
 + seoexperimenty.ru
++ share-buttons.xyz
 + sharebutton.net
 + simple-share-buttons.com
++ site-54737596-1.snip.tw
++ site-71510028-1.snip.tw
 + site1.free-floating-buttons.com
 + site14.simple-share-buttons.com
 + site18.simple-share-buttons.com
@@ -83,9 +91,17 @@
 + success-seo.com
 + superiends.org
 + tasteidea.com
++ top1-seo-service.com
++ top1-seo-service.com	
++ topseoservices.co	
 + torontoplumbinggroup.com
++ traffic2cash.xyz	
 + videos-for-your-business.com
++ visitors.genie-connect.com
 + vodkoved.ru
++ w3javascript.com	
 + website-errors-scanner.com
++ website-stealer-warning.hdmoviecamera.net
++ website-stealer.nufaq.com
 + websocial.me
 + ykecwqlixx.ru
