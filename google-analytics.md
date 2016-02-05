@@ -14,3 +14,6 @@ savetubevideo.info|screentoolkit.com|see-your-website-here.com|semalt.com|semalt
 
 ##Referrer spam filter #5
 site30.simple-share-buttons.com|slftsdybbg.ru|smailik.org|social-buttons.com|socialseet.ru|sq01|srecorder.com|superiends.org|tasteidea.com|torontoplumbinggroup.com|vodkoved.ru|website-errors-scanner.com|websocial.me|ykecwqlixx.ru
+
+##Referrer spam filter #6
+cstc.be|forum.muratordom.pl|free-traffic.xyz|net-profits.xyz|rtsys.rtrk.be|social-widget.xyz|web-revenue.xyz|website-stealer.nufaq.com|с.новым.годом.рф
